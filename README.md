@@ -1,7 +1,7 @@
 # <p  align="center">wb37
 <p  align="center">
 <b>why is development so hard
-
+---
 <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/website37?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
